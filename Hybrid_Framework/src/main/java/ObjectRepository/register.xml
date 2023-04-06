@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+ <page name="Login" title="Login" frame="">
+  <Element name="email" locator="name">email_create</Element> 
+  <Element name="submit" locator="id">SubmitCreate</Element> 
+  <Element name="salutation" locator="id">id_gender1</Element> 
+  <Element name="cfirstname" locator="id">customer_firstname</Element> 
+  <Element name="clastname" locator="name">customer_lastname</Element> 
+   <Element name="cemail" locator="name">email</Element> 
+     <Element name="cpwd" locator="name">passwd</Element> 
+      <Element name="cday" locator="name">days</Element> 
+       <Element name="cmonth" locator="name">months</Element> 
+        <Element name="cyear" locator="name">years</Element> 
+         <Element name="firstname" locator="name">firstname</Element> 
+        <Element name="lastname" locator="name">lastname</Element> 
+        <Element name="company" locator="name">company</Element> 
+        <Element name="address" locator="name">address1</Element> 
+        <Element name="city" locator="name">city</Element> 
+        <Element name="state" locator="name">id_state</Element> 
+        <Element name="postcode" locator="name">postcode</Element> 
+        <Element name="id_country" locator="name">id_country</Element> 
+        <Element name="other" locator="name">other</Element> 
+        <Element name="homephone" locator="name">phone</Element> 
+        <Element name="phone" locator="name">phone_mobile</Element> 
+        <Element name="addressalias" locator="name">alias</Element> 
+        <Element name="registerbutton" locator="name">submitAccount</Element> 
+       
+      
+  
+ </page>
