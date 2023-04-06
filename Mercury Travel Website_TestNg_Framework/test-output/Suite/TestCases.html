@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>TestNG:  TestCases</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>TestCases</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 20 16:25:19 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>219 seconds (219634 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>SmokeTest </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='Testcases.Verify_FlightData.Verify_FlightInformation()'><b>Verify_FlightInformation</b><br>Test class: Testcases.Verify_FlightData<br/>
+<a href="#Output-1234723192" onClick='toggleBox("Output-1234723192", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1234723192" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1234723192">
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> xpath: //div[@class='welcomePageModalSheetContent']//div[@aria-label='close']] is clicked sucessfully<br/>
+Bangalore  is Entered in to the Type City Name or Airport Code<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: li.ui-menu-item:nth-child(1)] is clicked sucessfully<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> id: searchFlightsBtn] is clicked sucessfully<br/>
+[Bangalore, India - Bangalore International Airport (BLR)]<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>Testcases.Verify_FlightData@1c5920df</td></tr>
+<tr>
+<td title='Testcases.Verify_FlightData.Verify_FlightDetails()'><b>Verify_FlightDetails</b><br>Test class: Testcases.Verify_FlightData<br/>
+<a href="#Output-2099033503" onClick='toggleBox("Output-2099033503", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2099033503" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2099033503">
+Route: DEL → BLR<br/>
+Date: 23-12-2022<br/>
+Duration: 02:45:00<br/>
+Trip Type: Round Trip<br/>
+Stops: 0 Stops(s)<br/>
+Fare Type: Refundable<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #fare_rules_modal > div.modal-header > button] is clicked sucessfully<br/>
+Route: BLR → DEL<br/>
+Date: 23-12-2022<br/>
+Duration: 03:00:00<br/>
+Trip Type: Round Trip<br/>
+Stops: 0 Stops(s)<br/>
+Fare Type: Refundable<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #fare_rules_modal > div.modal-header > button] is clicked sucessfully<br/>
+[Route: DEL → BLR, Date: 23-12-2022, Duration: 02:45:00, Trip Type: Round Trip, Stops: 0 Stops(s), Fare Type: Refundable]<br/>
+</div>
+</td>
+<td></td>
+<td>57</td>
+<td>Testcases.Verify_FlightData@1c5920df</td></tr>
+<tr>
+<td title='Testcases.VerifyLogin_Functionality.verifyLoginFunctionality()'><b>verifyLoginFunctionality</b><br>Test class: Testcases.VerifyLogin_Functionality<br/>
+<a href="#Output-476221290" onClick='toggleBox("Output-476221290", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-476221290" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-476221290">
+Proxy element for: DefaultElementLocator 'By.xpath: //ul[contains(@class,'nav navbar-nav navbar-right margin-right-logo')]//li[@class='dropdown loggedout']' is clicked sucessfully<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: div.navbar-collapse.paddingleft0 > ul > li.dropdown.loggedout > ul > li:nth-child(1) > a] is clicked sucessfully<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully<br/>
+kalichaitanya.basuri19@gmail.com  is Entered in to the Email address<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully<br/>
+Expected Value "This value is required." and Actual Values in Application is This value is required.<br/>
+kalichaitanya.basuri19@gmail.com  is Entered in to the Email address<br/>
+odfgdfgdfg  is Entered in to the Password<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully<br/>
+Expected Value Incorrect email address and password combination. Please try again.and Actual Value in Application is Incorrect email address and password combination. Please try again.<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalMsg > div > div > div.modal-header > button] is clicked sucessfully<br/>
+kalichaitanya.basuri19@gmail.com  is Entered in to the Email address<br/>
+password4321  is Entered in to the Password<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>Testcases.VerifyLogin_Functionality@548d708a</td></tr>
+<tr>
+<td title='Testcases.Verify_Dateformat.Verify_Dateformat()'><b>Verify_Dateformat</b><br>Test class: Testcases.Verify_Dateformat<br/>
+<a href="#Output-1901712897" onClick='toggleBox("Output-1901712897", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1901712897" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1901712897">
+Application not accepting the date format of DD/MM/YY<br/>
+Application not accepting the date format of MM/DD/YY<br/>
+Application not accepting the single digit date format of M/D/YY<br/>
+Delhi  is Entered in to the Type City Name or Airport Code<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: li.ui-menu-item:nth-child(1)] is clicked sucessfully<br/>
+Bangalore  is Entered in to the Type City Name or Airport Code<br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> xpath: //ul[@class='ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all']//a[contains(text(),'Bangalore')]] is clicked sucessfully<br/>
+Selected the 1 in to the Select options of  combobox<br/>
+Selected the 1 in to the Select options of  combobox<br/>
+Selected the 1 in to the Select options of  combobox<br/>
+Selected the Business Class in to the Select options of  <br/>
+[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> id: searchFlightsBtn] is clicked sucessfully<br/>
+Flight filtering is working fine<br/>
+</div>
+</td>
+<td></td>
+<td>30</td>
+<td>Testcases.Verify_Dateformat@350aac89</td></tr>
+</table><p>
+</body>
+</html>

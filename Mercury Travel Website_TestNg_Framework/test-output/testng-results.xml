@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //ul[contains(@class,'nav navbar-nav navbar-right margin-right-logo')]//li[@class='dropdown loggedout']' is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: div.navbar-collapse.paddingleft0 > ul > li.dropdown.loggedout > ul > li:nth-child(1) > a] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[kalichaitanya.basuri19@gmail.com  is Entered in to the Email address]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value "This value is required." and Actual Values in Application is This value is required.]]>
+    </line>
+    <line>
+      <![CDATA[kalichaitanya.basuri19@gmail.com  is Entered in to the Email address]]>
+    </line>
+    <line>
+      <![CDATA[odfgdfgdfg  is Entered in to the Password]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Expected Value Incorrect email address and password combination. Please try again.and Actual Value in Application is Incorrect email address and password combination. Please try again.]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalMsg > div > div > div.modal-header > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[kalichaitanya.basuri19@gmail.com  is Entered in to the Email address]]>
+    </line>
+    <line>
+      <![CDATA[password4321  is Entered in to the Password]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Application not accepting the date format of DD/MM/YY]]>
+    </line>
+    <line>
+      <![CDATA[Application not accepting the date format of MM/DD/YY]]>
+    </line>
+    <line>
+      <![CDATA[Application not accepting the single digit date format of M/D/YY]]>
+    </line>
+    <line>
+      <![CDATA[Delhi  is Entered in to the Type City Name or Airport Code]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: li.ui-menu-item:nth-child(1)] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Bangalore  is Entered in to the Type City Name or Airport Code]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> xpath: //ul[@class='ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all']//a[contains(text(),'Bangalore')]] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Selected the 1 in to the Select options of  combobox]]>
+    </line>
+    <line>
+      <![CDATA[Selected the 1 in to the Select options of  combobox]]>
+    </line>
+    <line>
+      <![CDATA[Selected the 1 in to the Select options of  combobox]]>
+    </line>
+    <line>
+      <![CDATA[Selected the Business Class in to the Select options of  ]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> id: searchFlightsBtn] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Flight filtering is working fine]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> xpath: //div[@class='welcomePageModalSheetContent']//div[@aria-label='close']] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Bangalore  is Entered in to the Type City Name or Airport Code]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: li.ui-menu-item:nth-child(1)] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> id: searchFlightsBtn] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[[Bangalore, India - Bangalore International Airport (BLR)]]]>
+    </line>
+    <line>
+      <![CDATA[Route: DEL → BLR]]>
+    </line>
+    <line>
+      <![CDATA[Date: 23-12-2022]]>
+    </line>
+    <line>
+      <![CDATA[Duration: 02:45:00]]>
+    </line>
+    <line>
+      <![CDATA[Trip Type: Round Trip]]>
+    </line>
+    <line>
+      <![CDATA[Stops: 0 Stops(s)]]>
+    </line>
+    <line>
+      <![CDATA[Fare Type: Refundable]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #fare_rules_modal > div.modal-header > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[Route: BLR → DEL]]>
+    </line>
+    <line>
+      <![CDATA[Date: 23-12-2022]]>
+    </line>
+    <line>
+      <![CDATA[Duration: 03:00:00]]>
+    </line>
+    <line>
+      <![CDATA[Trip Type: Round Trip]]>
+    </line>
+    <line>
+      <![CDATA[Stops: 0 Stops(s)]]>
+    </line>
+    <line>
+      <![CDATA[Fare Type: Refundable]]>
+    </line>
+    <line>
+      <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #fare_rules_modal > div.modal-header > button] is clicked sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[[Route: DEL → BLR, Date: 23-12-2022, Duration: 02:45:00, Trip Type: Round Trip, Stops: 0 Stops(s), Fare Type: Refundable]]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-20T16:25:19 IST" name="Suite" finished-at="2022-12-20T16:28:59 IST" duration-ms="219634">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="VerifyLogin_Functionality.verifyLoginFunctionality()[pri:0, instance:Testcases.VerifyLogin_Functionality@548d708a]" name="verifyLoginFunctionality" class="Testcases.VerifyLogin_Functionality"/>
+        <method signature="Verify_Dateformat.Verify_Dateformat()[pri:0, instance:Testcases.Verify_Dateformat@350aac89]" name="Verify_Dateformat" class="Testcases.Verify_Dateformat"/>
+        <method signature="Verify_FlightData.Verify_FlightDetails()[pri:2, instance:Testcases.Verify_FlightData@1c5920df]" name="Verify_FlightDetails" class="Testcases.Verify_FlightData"/>
+        <method signature="Verify_FlightData.Verify_FlightInformation()[pri:1, instance:Testcases.Verify_FlightData@1c5920df]" name="Verify_FlightInformation" class="Testcases.Verify_FlightData"/>
+      </group> <!-- SmokeTest -->
+    </groups>
+    <test started-at="2022-12-20T16:25:19 IST" name="TestCases" finished-at="2022-12-20T16:28:59 IST" duration-ms="219634">
+      <class name="Testcases.Verify_Dateformat">
+        <test-method signature="Verify_Dateformat()[pri:0, instance:Testcases.Verify_Dateformat@350aac89]" started-at="2022-12-20T16:27:09 IST" name="Verify_Dateformat" finished-at="2022-12-20T16:27:39 IST" duration-ms="30491" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Application not accepting the date format of DD/MM/YY]]>
+            </line>
+            <line>
+              <![CDATA[Application not accepting the date format of MM/DD/YY]]>
+            </line>
+            <line>
+              <![CDATA[Application not accepting the single digit date format of M/D/YY]]>
+            </line>
+            <line>
+              <![CDATA[Delhi  is Entered in to the Type City Name or Airport Code]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: li.ui-menu-item:nth-child(1)] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Bangalore  is Entered in to the Type City Name or Airport Code]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> xpath: //ul[@class='ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all']//a[contains(text(),'Bangalore')]] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Selected the 1 in to the Select options of  combobox]]>
+            </line>
+            <line>
+              <![CDATA[Selected the 1 in to the Select options of  combobox]]>
+            </line>
+            <line>
+              <![CDATA[Selected the 1 in to the Select options of  combobox]]>
+            </line>
+            <line>
+              <![CDATA[Selected the Business Class in to the Select options of  ]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> id: searchFlightsBtn] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Flight filtering is working fine]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_Dateformat -->
+      </class> <!-- Testcases.Verify_Dateformat -->
+      <class name="Testcases.Verify_FlightData">
+        <test-method signature="Verify_FlightInformation()[pri:1, instance:Testcases.Verify_FlightData@1c5920df]" started-at="2022-12-20T16:27:39 IST" name="Verify_FlightInformation" finished-at="2022-12-20T16:28:01 IST" duration-ms="21237" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> xpath: //div[@class='welcomePageModalSheetContent']//div[@aria-label='close']] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Bangalore  is Entered in to the Type City Name or Airport Code]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: li.ui-menu-item:nth-child(1)] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> id: searchFlightsBtn] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[[Bangalore, India - Bangalore International Airport (BLR)]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_FlightInformation -->
+        <test-method signature="Verify_FlightDetails()[pri:2, instance:Testcases.Verify_FlightData@1c5920df]" started-at="2022-12-20T16:28:01 IST" name="Verify_FlightDetails" finished-at="2022-12-20T16:28:59 IST" duration-ms="57983" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Route: DEL → BLR]]>
+            </line>
+            <line>
+              <![CDATA[Date: 23-12-2022]]>
+            </line>
+            <line>
+              <![CDATA[Duration: 02:45:00]]>
+            </line>
+            <line>
+              <![CDATA[Trip Type: Round Trip]]>
+            </line>
+            <line>
+              <![CDATA[Stops: 0 Stops(s)]]>
+            </line>
+            <line>
+              <![CDATA[Fare Type: Refundable]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #fare_rules_modal > div.modal-header > button] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Route: BLR → DEL]]>
+            </line>
+            <line>
+              <![CDATA[Date: 23-12-2022]]>
+            </line>
+            <line>
+              <![CDATA[Duration: 03:00:00]]>
+            </line>
+            <line>
+              <![CDATA[Trip Type: Round Trip]]>
+            </line>
+            <line>
+              <![CDATA[Stops: 0 Stops(s)]]>
+            </line>
+            <line>
+              <![CDATA[Fare Type: Refundable]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #fare_rules_modal > div.modal-header > button] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[[Route: DEL → BLR, Date: 23-12-2022, Duration: 02:45:00, Trip Type: Round Trip, Stops: 0 Stops(s), Fare Type: Refundable]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Verify_FlightDetails -->
+      </class> <!-- Testcases.Verify_FlightData -->
+      <class name="Testcases.VerifyLogin_Functionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.VerifyLogin_Functionality@548d708a]" started-at="2022-12-20T16:25:19 IST" name="setup" finished-at="2022-12-20T16:26:53 IST" duration-ms="93832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginFunctionality()[pri:0, instance:Testcases.VerifyLogin_Functionality@548d708a]" started-at="2022-12-20T16:26:53 IST" name="verifyLoginFunctionality" finished-at="2022-12-20T16:27:09 IST" duration-ms="15951" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proxy element for: DefaultElementLocator 'By.xpath: //ul[contains(@class,'nav navbar-nav navbar-right margin-right-logo')]//li[@class='dropdown loggedout']' is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: div.navbar-collapse.paddingleft0 > ul > li.dropdown.loggedout > ul > li:nth-child(1) > a] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[kalichaitanya.basuri19@gmail.com  is Entered in to the Email address]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value "This value is required." and Actual Values in Application is This value is required.]]>
+            </line>
+            <line>
+              <![CDATA[kalichaitanya.basuri19@gmail.com  is Entered in to the Email address]]>
+            </line>
+            <line>
+              <![CDATA[odfgdfgdfg  is Entered in to the Password]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[Expected Value Incorrect email address and password combination. Please try again.and Actual Value in Application is Incorrect email address and password combination. Please try again.]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalMsg > div > div > div.modal-header > button] is clicked sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[kalichaitanya.basuri19@gmail.com  is Entered in to the Email address]]>
+            </line>
+            <line>
+              <![CDATA[password4321  is Entered in to the Password]]>
+            </line>
+            <line>
+              <![CDATA[[[EdgeDriver: msedge on WINDOWS (19b2489825d5a410baad3be4560a88b7)] -> css selector: #modalLogin > div > div > div.modal-body > form > button] is clicked sucessfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginFunctionality -->
+      </class> <!-- Testcases.VerifyLogin_Functionality -->
+    </test> <!-- TestCases -->
+  </suite> <!-- Suite -->
+</testng-results>
